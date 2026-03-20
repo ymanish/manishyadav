@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#761111"/>
+  <rect x="14" y="13" width="10" height="38" fill="#ffffff"/>
+  <rect x="28" y="13" width="10" height="38" fill="#f1d8d8"/>
+  <rect x="42" y="13" width="8" height="38" fill="#ffffff"/>
+  <text x="32" y="58" text-anchor="middle" font-family="Georgia, serif" font-size="7" fill="#ffffff">TUD</text>
+</svg>
